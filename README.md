@@ -1,18 +1,40 @@
-# website
-simple website
+# Online Product Ordering Website
 
 ## Description
-This is an online shop for a small business.
+A multi-page website that allows customers to browse products and place orders using a product code system.
+
+The website contains 27 pages where users can:
+- Browse available items
+- View product details with unique product codes
+- Click an "Order Now" button
+- Submit the product code and contact details in the comment section
+- The website automatically sends order details to the admin via email
+
+## Features
+- Multi-page product catalog (27 pages)
+- Unique product codes for each item
+- "Order Now" functionality
+- Comment-based order submission
+- Email notification for new orders
+- Mobile-friendly design
 
 ## Technologies Used
 - HTML
 - CSS
-- Java
-- VS Code
+- JavaScript
 - Xneelo
 - formspree
 
-## How to Run
-The complete website has 27 pages, customers can browes items, each item has a code and an option to order now, if you click on order now it will take you to the comment section in the comment section you will find instructions to write the code of the product you want to order and your contact details. I will immediately receiv the comment in my email
+## How Ordering Works
+1. Customer browses products
+2. Customer selects an item and clicks **Order Now**
+3. Customer is redirected to the comment section
+4. Customer enters:
+   - Product code
+   - Contact details
+5. Order details are sent directly to admin email
 
-## Screenshots (optional)
+## Live Demo
+
+[index.html](https://github.com/user-attachments/files/24736838/index.html)
+
