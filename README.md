@@ -1,4 +1,4 @@
-[style.css](https://github.com/user-attachments/files/24736923/style.css)
+
 # Online Product Ordering Website
 
 ## Description
@@ -55,4 +55,10 @@ The website contains 27 pages where users can:
 [clothes.html](https://github.com/user-attachments/files/24737000/clothes.html)
 [books.html](https://github.com/user-attachments/files/24736996/books.html)
 [Bags.html](https://github.com/user-attachments/files/24736993/Bags.html)
+
+## Screenshots
+
+<img width="1366" height="616" alt="Screenshot 2026-01-20 at 14-50-08 AM Online store" src="https://github.com/user-attachments/assets/7738a686-9e83-40a3-9296-c63564bc7141" />
+<img width="1366" height="616" alt="Screenshot 2026-01-20 at 14-49-24 AM Online store" src="https://github.com/user-attachments/assets/d11c0cb3-24dd-4359-9fe4-8666b8f5d90d" />
+<img width="1366" height="616" alt="Screenshot 2026-01-20 at 14-50-30 AM Online store" src="https://github.com/user-attachments/assets/d0ef9b67-2ab8-4f48-9890-caccc1e4bf19" />
 
