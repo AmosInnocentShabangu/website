@@ -1,4 +1,4 @@
-[style.css](https://github.com/user-attachments/files/24736902/style.css)
+[style.css](https://github.com/user-attachments/files/24736923/style.css)
 # Online Product Ordering Website
 
 ## Description
@@ -39,3 +39,4 @@ The website contains 27 pages where users can:
 
 [index.html](https://github.com/user-attachments/files/24736838/index.html)
 
+[style.css](https://github.com/user-attachments/files/24736927/style.css)
