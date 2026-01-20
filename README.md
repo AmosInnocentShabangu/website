@@ -40,3 +40,19 @@ The website contains 27 pages where users can:
 [index.html](https://github.com/user-attachments/files/24736838/index.html)
 
 [style.css](https://github.com/user-attachments/files/24736927/style.css)
+
+[kids.html](https://github.com/user-attachments/files/24737038/kids.html)
+[Kclothes.html](https://github.com/user-attachments/files/24737037/Kclothes.html)
+[Kclothes.html](https://github.com/user-attachments/files/24737031/Kclothes.html)
+[jewellery.html](https://github.com/user-attachments/files/24737029/jewellery.html)
+[jeans.html](https://github.com/user-attachments/files/24737024/jeans.html)
+[Hwomen.html](https://github.com/user-attachments/files/24737018/Hwomen.html)
+[house.html](https://github.com/user-attachments/files/24737015/house.html)
+[Home.html](https://github.com/user-attachments/files/24737011/Home.html)
+[Hmen.html](https://github.com/user-attachments/files/24737009/Hmen.html)
+[Hair.html](https://github.com/user-attachments/files/24737007/Hair.html)
+[furniture.html](https://github.com/user-attachments/files/24737004/furniture.html)
+[clothes.html](https://github.com/user-attachments/files/24737000/clothes.html)
+[books.html](https://github.com/user-attachments/files/24736996/books.html)
+[Bags.html](https://github.com/user-attachments/files/24736993/Bags.html)
+
