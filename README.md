@@ -64,5 +64,5 @@ The website contains 27 pages where users can:
 
 <img width="1366" height="768" alt="vsc2" src="https://github.com/user-attachments/assets/d6bb036c-4e37-43f8-ae58-a26690da4805" />
 <img width="1366" height="768" alt="vsc" src="https://github.com/user-attachments/assets/8c6e73e2-170f-4108-9cee-6334779fd209" />
-<img width="848" height="567" alt="1aa" src="https://github.com/user-attachments/assets/beed5fef-867a-4106-a9b7-9ea72ab9e5dd" />
+
 
