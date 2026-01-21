@@ -62,3 +62,7 @@ The website contains 27 pages where users can:
 <img width="1366" height="616" alt="Screenshot 2026-01-20 at 14-49-24 AM Online store" src="https://github.com/user-attachments/assets/d11c0cb3-24dd-4359-9fe4-8666b8f5d90d" />
 <img width="1366" height="616" alt="Screenshot 2026-01-20 at 14-50-30 AM Online store" src="https://github.com/user-attachments/assets/d0ef9b67-2ab8-4f48-9890-caccc1e4bf19" />
 
+<img width="1366" height="768" alt="vsc2" src="https://github.com/user-attachments/assets/d6bb036c-4e37-43f8-ae58-a26690da4805" />
+<img width="1366" height="768" alt="vsc" src="https://github.com/user-attachments/assets/8c6e73e2-170f-4108-9cee-6334779fd209" />
+<img width="848" height="567" alt="1aa" src="https://github.com/user-attachments/assets/beed5fef-867a-4106-a9b7-9ea72ab9e5dd" />
+
