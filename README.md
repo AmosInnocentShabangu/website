@@ -2304,7 +2304,7 @@ function scrollToComment() {
 ```
 [index.html](https://github.com/user-attachments/files/24736838/index.html)
 
-### Script for styke.css
+### Script for style.css
 
 ```
 header{
