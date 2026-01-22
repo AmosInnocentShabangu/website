@@ -23,6 +23,7 @@ The website contains 27 pages where users can:
 - HTML
 - CSS
 - JavaScript
+- Visual Studio Code
 - Xneelo
 - formspree
 
@@ -37,7 +38,9 @@ The website contains 27 pages where users can:
 
 
 ### Script for index.html
-```<!DOCTYPE html>
+```Visual Studio Code
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -2306,7 +2309,7 @@ function scrollToComment() {
 
 ### Script for style.css
 
-```
+```Visual Studio Code
 header{
     text-align: center;
     padding: 15px 30px;
@@ -2640,7 +2643,7 @@ aside{
 ```
 [style.css](https://github.com/user-attachments/files/24736927/style.css)
 
-### Other Scripts
+### Other Scripts(Visual Studio Code)
 - [kids.html](https://github.com/user-attachments/files/24737038/kids.html)
 - [Kclothes.html](https://github.com/user-attachments/files/24737037/Kclothes.html)
 - [Kclothes.html](https://github.com/user-attachments/files/24737031/Kclothes.html)
